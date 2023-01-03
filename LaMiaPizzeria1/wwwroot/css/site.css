@@ -16,6 +16,13 @@ html {
 body {
   margin-bottom: 60px;
 }
-.color-red {
-    color: red;
+.text-orange {
+    color: orange;
+}
+.bg-orange{
+    background-color: orange;
+}
+.bg-ardesia {
+    background-image: url("../img/ardesia1.jfif");
+    background-size:cover;
 }
